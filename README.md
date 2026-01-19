@@ -27,19 +27,3 @@ The bot responds in a **Rick Sanchez–inspired tone** (sarcastic, confident, sc
 - CSV
 
 ---
-
-## Project Structure
-
-```text
-.
-├── bot.py
-├── handlers/
-│ └── query_handler.py
-├── services/
-│ ├── openai_service.py
-│ └── supabase_service.py
-├── data/
-│ └── cybersecurity.csv
-├── .env.example
-├── requirements.txt
-└── README.md

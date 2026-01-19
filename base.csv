@@ -1,0 +1,463 @@
+title,content
+Phishing,A deceptive technique used to trick individuals into revealing sensitive information.
+Ransomware,Malware that encrypts files and demands payment for the decryption key.
+Red Team,A group that simulates attacks to test an organization's defenses.
+Blue Team,The internal security team responsible for defending against cyber threats.
+Black Hat,Hackers who violate computer security for personal gain or malice.
+White Hat,Ethical hackers who use their skills to improve security systems.
+Grey Hat,Hackers who may violate laws but usually without malicious intent.
+Zero-Day Exploit,An attack that targets a software vulnerability unknown to the vendor.
+SQL Injection,A vulnerability where attackers insert malicious SQL code into entry fields.
+Cross-Site Scripting (XSS),Injecting malicious scripts into benign and trusted websites.
+Brute Force Attack,Trial-and-error method used to guess passwords or encryption keys.
+Man-in-the-Middle (MitM),An attack where the attacker secretly intercepts communications.
+Distributed Denial of Service (DDoS),Flooding a target with traffic to crash its servers or network.
+Firewall,A network security system that monitors and controls incoming and outgoing traffic.
+Encryption,The process of converting information into a code to prevent unauthorized access.
+Social Engineering,The psychological manipulation of people into performing actions or divulging info.
+Multi-Factor Authentication (MFA),A security system requiring more than one method of authentication.
+Penetration Testing,A simulated cyberattack against your computer system to check for vulnerabilities.
+Intrusion Detection System (IDS),A device or software application that monitors a network for malicious activity.
+Endpoint Security,The practice of securing endpoints or entry points of end-user devices.
+Cryptography,The practice and study of techniques for secure communication.
+Keylogger,A type of surveillance software that records every keystroke made on a keyboard.
+Malware,Software specifically designed to disrupt damage or gain unauthorized access.
+Spyware,Software that enables a user to obtain covert information about another's computer activities.
+Trojan Horse,A program that appears harmless but is actually malicious.
+Computer Worm,A self-replicating malware program that spreads through computer networks.
+Data Breach,The intentional or unintentional release of secure or private information.
+Virtual Private Network (VPN),A service that creates a safe encrypted connection over a less secure network.
+Public Key Infrastructure (PKI),A framework for managing digital certificates and public-key encryption.
+Digital Signature,A mathematical scheme for verifying the authenticity of digital messages.
+Security Operations Center (SOC),A centralized unit that deals with security issues on an organizational level.
+Incident Response,The process by which an organization handles a data breach or cyberattack.
+Risk Management,The process of identifying monitoring and managing potential security risks.
+Vulnerability Assessment,The process of defining identifying and prioritizing vulnerabilities in a system.
+Asset Management,The practice of tracking and managing an organization's IT assets.
+Network Segmentation,The practice of splitting a network into smaller sub-networks.
+Least Privilege Principle,The practice of limiting access rights for users to the bare minimum.
+Bio-metric Authentication,Security processes that use unique biological traits to identify individuals.
+Identity and Access Management (IAM),A framework of policies for ensuring proper people have access to technology.
+Secure Sockets Layer (SSL),A standard security technology for establishing an encrypted link.
+Transport Layer Security (TLS),The successor to SSL providing more secure communication.
+Honeypot,A decoy system used to lure and study potential hackers.
+Threat Intelligence,Information used by an organization to understand the threats it faces.
+Advanced Persistent Threat (APT),A prolonged and targeted cyberattack by a high-level attacker.
+Sandboxing,A security mechanism for separating running programs from the underlying system.
+Patch Management,The process of managing a network of computers by deploying software updates.
+Antivirus Software,A program used to prevent detect and remove malware.
+Cloud Security,A broad set of control technologies used to protect cloud computing environments.
+Dark Web,A part of the internet that is intentionally hidden and requires specific software to access.
+Packet Sniffing,The process of capturing and analyzing data packets as they flow across a network.
+Buffer Overflow,An anomaly where a program writes data beyond the boundary of a buffer.
+Rootkit,A collection of software tools that enable an unauthorized user to gain control.
+Script Kiddie,An unskilled individual who uses scripts or programs developed by others to attack.
+Cyber Espionage,The act or practice of obtaining secrets without permission via the internet.
+Air Gapping,A security measure that ensures a computer or network is physically isolated.
+Logic Bomb,A piece of code intentionally inserted into a software system that sets off a malicious function.
+Privilege Escalation,The act of exploiting a bug or design flaw to gain elevated access.
+Backdoor,A method of bypassing normal authentication in a cryptosystem or algorithm.
+Dictionary Attack,A method of breaking into a password-protected computer by entering every word in a dictionary.
+Exfiltration,The unauthorized transfer of data from a computer.
+Fuzzing,An automated software testing technique that involves providing semi-random data as input.
+Hardening,The process of securing a system by reducing its surface of vulnerability.
+Payload,The part of transmitted data that is the actual intended message or malicious code.
+Reverse Engineering,The process of analyzing a system to identify its components and their interrelationships.
+Salting,Adding random data to a password before hashing it to protect against pre-computed attacks.
+Threat Hunting,The process of proactively searching through networks to detect and isolate threats.
+Whaling,A highly targeted phishing attack aimed at high-ranking executives.
+Zombie,A computer connected to the internet that has been compromised by a hacker via a virus.
+Zero Trust,A security model that requires strict identity verification for every person and device.
+Container Security,The tools and policies used to protect containerized applications.
+Digital Forensics,The branch of forensic science encompassing the recovery and investigation of material found in digital devices.
+Exploit Kit,A software kit designed to run on web servers with the purpose of identifying vulnerabilities.
+Information Security (InfoSec),The practice of protecting information by mitigating information risks.
+Interoperability,The ability of computer systems or software to exchange and make use of information.
+Kernel,The core of a computer's operating system with complete control over everything in the system.
+Macro Virus,A virus that is written in a macro language and embedded into documents.
+Network Traffic Analysis (NTA),The process of recording reviewing and analyzing network traffic patterns.
+Open Source Intelligence (OSINT),The collection and analysis of data gathered from open sources.
+Passive Attack,An attack where the attacker does not interact with the target system.
+Active Attack,An attack where the attacker attempts to alter system resources or affect their operation.
+Quantum Cryptography,The science of exploiting quantum mechanical properties to perform cryptographic tasks.
+Remote Access Trojan (RAT),A malware program that includes a back door for administrative control.
+Secure Boot,A security standard developed by members of the PC industry to help ensure a device boots using only trusted software.
+Security Token,A peripheral device used to gain access to an electronically restricted resource.
+Steganography,The practice of concealing a file message image or video within another file.
+Tailgating,A physical security breach where an unauthorized person follows an authorized person into a secure area.
+UDP Flood,A type of denial-of-service attack using User Datagram Protocol packets.
+Vault,A secure digital storage for sensitive keys passwords and certificates.
+War Driving,The act of searching for Wi-Fi wireless networks by a person in a moving vehicle.
+Cross-Site Request Forgery (CSRF),An attack that forces an authenticated user to execute unwanted actions on a web app.
+Drip Feed Phishing,A slow-paced phishing attack designed to evade detection by security software.
+Ethernet Security,Security protocols used to protect data transmitted over an Ethernet network.
+Firmware Attack,A cyberattack that targets the software programmed into a hardware device's memory.
+Guidance Software,Tools used for digital investigations and incident response.
+Hash Function,A function that converts an input into a fixed-size string of characters.
+Incident Management,The activities of an organization to identify analyze and correct hazards.
+Juice Jacking,A type of cyberattack involving a charging port that doubles as a data connection.
+Kill Chain,A model used to describe the stages of a cyberattack.
+Local File Inclusion (LFI),An exploit where an attacker tricks a web application into exposing or running files on the server.
+Managed Security Service Provider (MSSP),A service provider that provides outsourced monitoring and management of security systems.
+Non-Repudiation,The assurance that someone cannot deny the validity of something.
+Purple Team,A collaborative group that integrates Red and Blue team tactics for better security.
+Social Media Hijacking,The process of gaining unauthorized access to social media accounts.
+Adware,Software that automatically displays or downloads advertising material.
+Clickjacking,A technique of tricking a user into clicking on something different from what the user perceives.
+Vishing,The fraudulent practice of making phone calls to trick people into giving personal information.
+Smishing,Phishing conducted via SMS text messages.
+Watering Hole Attack,An attack where the attacker infects a website frequently visited by a specific group.
+Typosquatting,Registering domain names that are misspellings of popular websites.
+Shoulder Surfing,Direct observation techniques such as looking over someone's shoulder to get passwords.
+Dumpster Diving,Searching through trash to find information that could be used in a cyberattack.
+Eavesdropping,The act of secretly listening to a private conversation or communication.
+Pretexting,A form of social engineering where an attacker creates a fabricated scenario to steal info.
+Scareware,Malicious software that tricks users into believing their computer has a virus.
+Rogue Access Point,A wireless access point installed on a network without authorization.
+Evil Twin,A fraudulent Wi-Fi access point that appears to be legitimate.
+Bluejacking,The sending of unsolicited messages over Bluetooth to Bluetooth-enabled devices.
+Bluesnarfing,The unauthorized access of information from a wireless device through a Bluetooth connection.
+Side-Channel Attack,An attack based on information gained from the physical implementation of a system.
+Cold Boot Attack,A type of side-channel attack where an attacker retrieves encryption keys from RAM.
+Denial of Service (DoS),An attack meant to shut down a machine or network making it inaccessible.
+Ping of Death,A type of DoS attack in which the attacker sends a fragmented or malformed packet.
+Smurf Attack,A DDoS attack in which large numbers of ICMP packets with the victim's spoofed source IP are sent.
+Fraggle Attack,A type of DoS attack that uses a large amount of spoofed UDP traffic to a network.
+SYN Flood,A type of DoS attack in which an attacker sends a succession of SYN requests to a system.
+Teardrop Attack,A DoS attack that involves sending fragmented packets to a target machine.
+Zero-Knowledge Proof,A method by which one party can prove to another that they know a value without revealing it.
+CAPTCHA,A type of challenge-response test used in computing to determine whether the user is human.
+Two-Factor Authentication (2FA),A subset of MFA requiring exactly two forms of identification.
+Bastion Host,A special-purpose computer on a network specifically designed to withstand attacks.
+Demilitarized Zone (DMZ),A physical or logical subnetwork that contains an organization's external-facing services.
+Stateful Inspection,A firewall technology that monitors the state of active connections.
+Proxy Server,A server that acts as an intermediary for requests from clients seeking resources.
+Airborne Virus,A virus that can spread through wireless connections.
+Logic Bomb,A piece of code that will set off a malicious function when specified conditions are met.
+Polymorphic Malware,Malware that constantly changes its identifiable features to evade detection.
+Metamorphic Malware,Malware that rewrites its own code and changes its appearance with each infection.
+Click Fraud,A type of fraud that occurs in pay-per-click online advertising.
+Botnet,A number of Internet-connected devices each of which is running one or more bots.
+Command and Control (C2),The infrastructure used by attackers to maintain communication with compromised systems.
+DNS Spoofing,A type of attack that exploits vulnerabilities in the Domain Name System.
+IP Spoofing,The creation of IP packets with a false source IP address for impersonation.
+ARP Spoofing,A technique by which an attacker sends spoofed Address Resolution Protocol messages.
+Session Hijacking,The exploitation of a valid computer session to gain unauthorized access.
+Cookie Poisoning,The modification of a cookie to bypass security or steal information.
+Directory Traversal,An HTTP attack which allows attackers to access restricted directories.
+SQLi,Acronym for SQL Injection.
+Blind SQL Injection,A type of SQLi attack that asks the database true or false questions.
+Insecure Direct Object Reference (IDOR),A vulnerability where an application provides direct access to objects based on user-provided input.
+Cross-Site Request Forgery (CSRF),An attack that tricks a victim into submitting a malicious request.
+Broken Authentication,A vulnerability that allows an attacker to compromise passwords or session tokens.
+Security Misconfiguration,The result of incomplete or ad hoc configuration of security controls.
+Sensitive Data Exposure,The failure to adequately protect sensitive information like financial data.
+XML External Entity (XXE),An attack against an application that parses XML input.
+Insecure Deserialization,When untrusted data is used to abuse the logic of an application.
+Using Components with Known Vulnerabilities,Using outdated or unpatched software libraries.
+Insufficient Logging and Monitoring,The failure to record security-critical events.
+Server-Side Request Forgery (SSRF),A vulnerability where an attacker can force a server-side application to make HTTP requests.
+Open Redirect,A vulnerability where an application accepts a user-controlled input that specifies a link to an external site.
+Business Email Compromise (BEC),A type of scam targeting companies who conduct wire transfers.
+CEO Fraud,A type of BEC where the attacker poses as a high-ranking executive.
+Data Loss Prevention (DLP),A strategy for making sure that end users do not send sensitive info outside the corporate network.
+Security Awareness Training,An educational program for employees about cybersecurity risks.
+Chief Information Security Officer (CISO),The senior-level executive responsible for an organization's info security.
+Health Insurance Portability and Accountability Act (HIPAA),US legislation that provides data privacy and security provisions for medical info.
+General Data Protection Regulation (GDPR),A regulation in EU law on data protection and privacy.
+Payment Card Industry Data Security Standard (PCI DSS),A set of security standards designed to ensure that all companies accept credit card info securely.
+ISO/IEC 27001,An international standard on how to manage information security.
+NIST Cybersecurity Framework,A set of guidelines for mitigating organizational cybersecurity risks.
+Cyber Insurance,A specialty insurance product intended to protect businesses from Internet-based risks.
+Bug Bounty,A program where individuals can receive recognition and compensation for reporting bugs.
+Vulnerability Disclosure Policy (VDP),A policy that outlines how researchers should report security flaws.
+Responsible Disclosure,A process where a vulnerability is disclosed to the vendor before being made public.
+Full Disclosure,The practice of making details of security vulnerabilities public immediately.
+Zero Trust Architecture (ZTA),A strategic initiative that helps prevent data breaches by eliminating the concept of trust.
+Micro-segmentation,A security technique that enables security policies to be granularly defined around workloads.
+Software-Defined Perimeter (SDP),A way to hide Internet-connected infrastructure from external parties.
+Identity Provider (IdP),A system entity that creates maintains and manages identity information.
+Service Provider (SP),An entity that provides web services to users.
+Security Assertion Markup Language (SAML),An open standard for exchanging authentication and authorization data.
+OAuth,An open standard for access delegation commonly used for token-based authentication.
+OpenID Connect (OIDC),An identity layer on top of the OAuth 2.0 protocol.
+JSON Web Token (JWT),An open standard that defines a compact and self-contained way for securely transmitting info.
+Brute Force,Attempting all possible password combinations until the correct one is found.
+Rainbow Table,A precomputed table for reversing cryptographic hash functions.
+Pass-the-Hash,A hacking technique that allows an attacker to authenticate to a remote server using a password hash.
+Credential Stuffing,The automated injection of stolen username and password pairs into website login forms.
+Brute-forcing,The act of using automated software to generate a large number of consecutive guesses.
+Dictionary Attack,A method of breaking a password by trying all the words in a pre-arranged list.
+Exploit,A piece of software or data that takes advantage of a bug or vulnerability.
+Payload,The part of the exploit that performs the malicious action.
+Shellcode,A small piece of code used as the payload in the exploitation of a software vulnerability.
+Reverse Shell,A type of shell in which the target machine communicates back to the attacking machine.
+Bind Shell,A type of shell where the attacker connects to a specific port on the target machine.
+Meterpreter,An advanced extensible payload that uses in-memory DLL injection.
+Cobalt Strike,A commercial penetration testing tool that provides a post-exploitation agent.
+Metasploit,A computer security project that provides information about security vulnerabilities.
+Nmap,A free and open-source network scanner.
+Wireshark,A free and open-source packet analyzer.
+Burp Suite,A graphical tool for testing Web application security.
+John the Ripper,A free password cracking software tool.
+Hashcat,A powerful and fast password recovery tool.
+Hydra,A parallelized login cracker which supports numerous protocols.
+Aircrack-ng,A network software suite consisting of a detector packet sniffer and cracker for wireless LANs.
+Mimikatz,An open-source tool that allows users to view and save authentication credentials.
+BloodHound,A tool used to reveal the hidden and often unintended relationships within an Active Directory environment.
+PowerSploit,A collection of Microsoft PowerShell modules that can be used to aid penetration testers.
+Empire,A post-exploitation framework that includes a pure-PowerShell Windows agent.
+Responder,An LLMNR NBT-NS and MDNS poisoner with built-in rogue authentication servers.
+Gitleaks,A tool for detecting secrets like passwords and API keys in git repos.
+TruffleHog,A tool that searches through git repositories for high entropy strings and secrets.
+Nikto,An open-source web server scanner which performs comprehensive tests.
+Wfuzz,A tool designed for bruteforcing Web Applications.
+Sqlmap,An open source penetration testing tool that automates the process of detecting and exploiting SQLi flaws.
+Dirbuster,A multi threaded java application designed to brute force directories and files names.
+Gobuster,A tool used to brute-force URIs and DNS subdomains.
+Shodan,A search engine that lets the user find specific types of computers connected to the internet.
+Censys,A search engine that enables researchers to discover the devices and networks that compose the Internet.
+VirusTotal,A website that provides free checking of files for viruses.
+Exploit-DB,An archive of exploits and vulnerable software.
+Mitre ATT&CK,A globally-accessible knowledge base of adversary tactics and techniques.
+CVE (Common Vulnerabilities and Exposures),A list of publicly disclosed computer security flaws.
+CVSS (Common Vulnerability Scoring System),A free and open industry standard for assessing the severity of security vulnerabilities.
+OWASP (Open Web Application Security Project),An online community that produces articles and tools in the field of web application security.
+SANS Institute,A private US for-profit company that specializes in information security and cybersecurity training.
+Certified Information Systems Security Professional (CISSP),An independent information security certification.
+Offensive Security Certified Professional (OSCP),An ethical hacking certification offered by Offensive Security.
+Certified Ethical Hacker (CEH),A qualification obtained by demonstrating knowledge of how to look for weaknesses in target systems.
+Security+,A global certification that validates the baseline skills necessary to perform core security functions.
+EnCase,A digital forensics product developed by Guidance Software.
+FTK (Forensic Toolkit),A computer forensics software made by AccessData.
+Autopsy,A digital forensics platform and graphical interface to The Sleuth Kit.
+Volatilty,An open-source memory forensics framework for incident response and malware analysis.
+Cuckoo Sandbox,An open source automated malware analysis system.
+Wi-Fi Protected Access (WPA),A security standard for users of computing devices equipped with wireless internet connections.
+WPA2,A security method added to WPA to provide even stronger data protection.
+WPA3,The latest generation of Wi-Fi security.
+Wired Equivalent Privacy (WEP),A security algorithm for IEEE 802.11 wireless networks.
+War-dialing,A technique to automatically scan a list of telephone numbers to find modems.
+Social Engineering Toolkit (SET),An open-source Python-driven tool aimed at penetration testing via social engineering.
+PhishMe,A solution that provides phishing defense and security awareness training.
+KnowBe4,A provider of security awareness training and simulated phishing platform.
+Carbon Black,An endpoint security software company.
+CrowdStrike,A cybersecurity technology company that provides endpoint security and threat intelligence.
+FireEye,A cybersecurity company that provides hardware software and services to investigate cyber attacks.
+Palo Alto Networks,A global cybersecurity leader known for its next-generation firewalls.
+Fortinet,A company that develops and markets cybersecurity software and appliances.
+Check Point,A provider of software and combined hardware and software products for IT security.
+Splunk,A software platform to search analyze and visualize machine-generated data.
+LogRhythm,A company that specializes in Security Information and Event Management (SIEM).
+QRadar,An enterprise security information and event management product from IBM.
+ArcSight,A cybersecurity product that provides big data security analytics and intelligence.
+Tenable,A cybersecurity company known for its vulnerability scanner Nessus.
+Qualys,A provider of cloud-based security and compliance solutions.
+Rapid7,A provider of security data and analytics solutions.
+Nessus,A proprietary comprehensive vulnerability scanner.
+OpenVAS,A software framework of several services and tools offering vulnerability scanning and management.
+Nmap Scripting Engine (NSE),One of Nmap's most powerful and flexible features that allows users to write scripts.
+Maltego,An open source intelligence and forensics application.
+The Harvester,A tool for gathering subdomain names e-mail addresses and usernames.
+Sherlock,A tool to find usernames across social networks.
+Honeyd,A small daemon that creates virtual hosts on a network.
+Canary Tokens,A simple way to tripwire your infrastructure and get notified of intrusions.
+Zero Trust Edge,A security framework that combines Zero Trust principles with software-defined networking.
+EDR (Endpoint Detection and Response),Tools used to protect endpoints by monitoring for suspicious behavior in real-time.
+XDR (Extended Detection and Response),A cross-platform approach to security that integrates data from endpoints networks and cloud.
+SOAR,Security Orchestration Automation and Response tools that help teams streamline incident handling.
+SIEM,Security Information and Event Management systems that provide real-time analysis of security alerts.
+UEBA,User and Entity Behavior Analytics which looks for anomalies in user patterns to find threats.
+Bluejacking,The practice of sending unsolicited messages to Bluetooth-enabled devices.
+Bluesnarfing,The theft of information from a wireless device through a Bluetooth connection.
+Vishing,Voice phishing where attackers use phone calls to trick victims into giving data.
+Smishing,Phishing attempts delivered specifically through SMS or text messages.
+Quishing,A phishing attack where a malicious link is embedded in a QR code.
+Spear Phishing,A highly targeted phishing attack aimed at a specific individual or organization.
+Business Email Compromise (BEC),Scams where attackers impersonate executives to authorize fraudulent wire transfers.
+Identity Provider (IdP),A service that stores and manages digital identities for user authentication.
+Privileged Access Management (PAM),Tools and policies designed to secure and monitor high-level administrative accounts.
+Bastion Host,A hardened server used to access a private network from an external network.
+Jump Server,A controlled computer that manages access to devices in different security zones.
+Demilitarized Zone (DMZ),A subnetwork that exposes an organization's external services to the untrusted internet.
+Air Gap,A security measure that ensures a network is physically isolated from the internet.
+Steganography,The art of hiding secret information within a non-secret file such as an image.
+Polymorphic Code,Code that uses a mutation engine to change its appearance while keeping the same function.
+Metamorphic Code,Code that rewrites itself entirely to evade signature-based detection.
+Rootkit,Malware that grants an attacker persistent administrative access while remaining hidden.
+Logic Bomb,Malicious code that executes only when certain logical conditions are met.
+Worm,Self-replicating malware that spreads across networks without human interaction.
+Trojan,Malware disguised as legitimate software to trick users into installing it.
+Spyware,Software designed to gather data about a user and send it to a third party.
+Adware,Malware that forces unwanted advertisements onto a user's screen.
+Keylogger,Software or hardware that records every keystroke made on a device.
+Crypto-jacking,The unauthorized use of a person's computer to mine cryptocurrency.
+Formjacking,The use of malicious JavaScript to steal credit card info from payment forms.
+Clickjacking,A technique that tricks users into clicking something different from what they see.
+Cross-Site Request Forgery (CSRF),An attack that forces a logged-in user to perform actions they didn't intend.
+Server-Side Request Forgery (SSRF),Attacking a server by forcing it to make requests to internal resources.
+Insecure Direct Object Reference (IDOR),A vulnerability where a user can access another user's data by changing an ID.
+Broken Access Control,Failures that allow users to act outside of their intended permissions.
+Buffer Overflow,Writing more data to a memory buffer than it can hold to overwrite adjacent memory.
+Heap Spraying,A technique to facilitate arbitrary code execution by saturating a program's memory.
+SQL Map,An open-source tool that automates the detection and exploitation of SQL injection.
+Burp Suite,An integrated platform for performing security testing of web applications.
+Wireshark,A network protocol analyzer used to capture and inspect data packets.
+Metasploit,A framework used by penetration testers to develop and execute exploit code.
+Nmap,A network mapper used for discovery and security auditing of open ports.
+BloodHound,A tool used to map complex attack paths within Active Directory environments.
+Mimikatz,A tool used to extract passwords and hashes from Windows memory.
+John the Ripper,A fast password-cracking tool used for security testing.
+Hashcat,An advanced password recovery tool that utilizes GPU power.
+Evil Twin,A rogue Wi-Fi access point that appears to be a legitimate network.
+War Driving,The act of searching for Wi-Fi networks from a moving vehicle.
+Blue Team,Defensive security professionals focused on maintaining system integrity.
+Red Team,Offensive security experts who simulate real-world attacks.
+Purple Team,A collaborative model where red and blue teams share insights to improve security.
+White Hat,An ethical hacker who works within the law to find vulnerabilities.
+Black Hat,A malicious hacker who exploits systems for personal gain.
+Grey Hat,A hacker who finds vulnerabilities without permission but without malicious intent.
+Script Kiddie,An amateur hacker who uses pre-made scripts without understanding how they work.
+Hacktivist,A hacker who attacks systems for political or social causes.
+Cyber Espionage,The use of cyberattacks to steal secrets from governments or corporations.
+Advanced Persistent Threat (APT),A prolonged and targeted cyberattack by a highly skilled actor.
+Zero Day,A vulnerability that is exploited before the software vendor has a patch.
+CVE (Common Vulnerabilities and Exposures),A list of publicly disclosed cybersecurity flaws.
+CVSS (Common Vulnerability Scoring System),A numerical score representing the severity of a vulnerability.
+DDoS (Distributed Denial of Service),Using multiple systems to flood a target's bandwidth or resources.
+Botnet,A network of compromised computers controlled by a central attacker.
+Honeypot,A decoy system designed to lure and study attackers.
+Honeynet,A network of multiple honeypots to simulate a larger infrastructure.
+Intrusion Detection System (IDS),A system that monitors network traffic for suspicious activity.
+Intrusion Prevention System (IPS),A system that detects and actively blocks malicious network traffic.
+Next-Generation Firewall (NGFW),A firewall that adds application-level inspection and threat intelligence.
+Sandboxing,Running suspicious code in an isolated environment to observe its behavior.
+Cryptography,The practice of securing communication through mathematical algorithms.
+Symmetric Encryption,An encryption method that uses the same key for both locking and unlocking.
+Asymmetric Encryption,Encryption that uses a public key to encrypt and a private key to decrypt.
+Hashing,Converting data into a fixed-length string of characters that cannot be reversed.
+Salt,Random data added to a password before hashing to prevent rainbow table attacks.
+Digital Signature,A mathematical way to verify the authenticity and integrity of a message.
+Public Key Infrastructure (PKI),A system for managing digital certificates and public-private key pairs.
+Certificate Authority (CA),A trusted entity that issues digital certificates.
+Transport Layer Security (TLS),A protocol that provides secure communication over a computer network.
+Secure Sockets Layer (SSL),The predecessor to TLS used for securing web traffic.
+Perfect Forward Secrecy,A feature that ensures session keys are not compromised even if the private key is.
+Quantum Cryptography,Encryption methods based on the principles of quantum mechanics.
+Post-Quantum Cryptography,Algorithms designed to be secure against attacks from quantum computers.
+Secure Boot,A hardware feature that ensures a device boots using only trusted software.
+TPM (Trusted Platform Module),A dedicated chip on a motherboard used for cryptographic operations.
+Hardening,The process of securing a system by reducing its surface of vulnerability.
+Patch Management,The systematic process of updating software to fix security vulnerabilities.
+Vulnerability Assessment,The process of identifying and prioritizing flaws in a system.
+Penetration Test,A controlled attack on a system to find and exploit weaknesses.
+Risk Assessment,The process of identifying and evaluating potential security threats.
+Incident Response Plan,A set of instructions to help IT staff detect and recover from a breach.
+Data Loss Prevention (DLP),Tools that prevent sensitive data from leaving the corporate network.
+Social Engineering,Manipulating people into giving up confidential information.
+Tailgating,Following an authorized person into a secure physical area.
+Dumpster Diving,Searching through trash to find sensitive documents or hardware.
+Pretexting,Creating a fake scenario to trick a victim into sharing data.
+Shadow IT,The use of IT systems or software without explicit organizational approval.
+Supply Chain Attack,An attack that targets a third-party vendor to reach a larger organization.
+Man-in-the-Middle (MitM),An attack where the actor intercepts communication between two parties.
+Endpoint,Any device that connects to a network such as a laptop or smartphone.
+Infrastructure as Code (IaC) Security,Scanning configuration files like Terraform or CloudFormation for security flaws.
+Serverless Security,Protecting event-driven functions from injection and excessive permission risks.
+Cloud Workload Protection Platform (CWPP),Security tools specifically designed to protect VMs and containers in the cloud.
+Cloud Security Posture Management (CSPM),Automated tools that identify misconfigurations and compliance risks in cloud environments.
+Data Sovereignty,The concept that data is subject to the laws of the country where it is located.
+Right to be Forgotten,A GDPR requirement allowing individuals to request the deletion of their personal data.
+Privacy by Design,An approach that integrates data protection into the development of technologies.
+Data Sanitization,The process of permanently erasing data from storage media so it cannot be recovered.
+Degaussing,Using a high-powered magnet to disrupt a hard drive's magnetic field and destroy data.
+Cryptographic Eradication,Destroying data by deleting the encryption keys used to protect it.
+Chain of Custody,A chronological log showing who handled digital evidence during an investigation.
+Write Blocker,A hardware device that prevents any data from being written to a suspect drive during forensics.
+Slack Space,The unused space in a disk cluster that may contain hidden or deleted data.
+RAM Forensics,Analyzing the volatile memory of a computer to find running processes or encryption keys.
+Anti-Forensics,Techniques used by attackers to hide or delete evidence of their activity.
+Indicator of Compromise (IoC),Evidence such as a file hash or IP address that suggests a system was breached.
+Indicator of Attack (IoA),Focuses on the intent and behavior of an attacker rather than file-based evidence.
+Traffic Pattern Analysis,Examining the volume and timing of network traffic to detect anomalies.
+NetFlow,A protocol for collecting IP traffic information and monitoring network flow.
+Packet Injection,The act of interfering with an established network connection by sending forged packets.
+DNS Sinkhole,A DNS server that gives out false results to redirect traffic away from malicious domains.
+Domain Fronting,A technique used to hide the true destination of traffic by using a different domain.
+Fast-Flux DNS,A technique used by botnets to hide phishing sites behind a rapidly changing network of hosts.
+Beaconing,The process of a compromised system checking in with a Command and Control server.
+Lateral Movement,The process an attacker uses to move deeper into a network after an initial breach.
+Pivot,Using a compromised system to attack or scan other systems in the same network.
+Living off the Land (LotL),Using legitimate system tools like PowerShell or WMI to carry out an attack.
+Fileless Malware,Malware that operates entirely in memory to avoid detection by traditional antivirus.
+Process Hollowing,Replacing the code of a legitimate process with malicious code in memory.
+DLL Injection,Running malicious code in the address space of another process by loading a library.
+API Hooking,Intercepting API calls to change or monitor the behavior of an application.
+Exploit Mitigation,Technologies like ASLR and DEP that make it harder to exploit software bugs.
+Address Space Layout Randomization (ASLR),Randomly arranging the positions of key data areas to prevent predictable attacks.
+Data Execution Prevention (DEP),A security feature that prevents code from running in non-executable memory regions.
+Control Flow Guard (CFG),A platform security feature that thwarts attacks that redirect code execution.
+Sandbox Escape,The process of breaking out of a restricted virtual environment to access the host.
+Side-Channel Attack,An attack based on physical information like power consumption or electromagnetic leaks.
+Rowhammer,A hardware exploit where repeated access to a row of memory causes bits to flip.
+Spectre,A hardware vulnerability that exploits speculative execution to leak sensitive data.
+Meltdown,A vulnerability that allows a program to read the private memory of the operating system.
+Microcode Update,A firmware-level patch used to fix hardware vulnerabilities like CPU bugs.
+Supply Chain Risk Management (SCRM),The process of identifying risks throughout the lifecycle of a product or service.
+Software Bill of Materials (SBOM),A formal list of every component and library used in a piece of software.
+Static Application Security Testing (SAST),Analyzing source code for security flaws without executing the program.
+Dynamic Application Security Testing (DAST),Testing a running application for vulnerabilities from the outside.
+Interactive Application Security Testing (IAST),Combining SAST and DAST to find vulnerabilities in real-time during use.
+Web Application Firewall (WAF),A firewall specifically designed to filter and monitor HTTP traffic.
+API Gateway,A management tool that sits between a client and a collection of backend services.
+JSON Web Token (JWT),A compact way of securely transmitting information between parties as a JSON object.
+Credential Harvester,A website or tool designed to trick users into entering their login details.
+Password Spraying,Attempting a single common password against many different user accounts.
+Brute Force Recovery,Trying every possible combination to recover an encrypted file or password.
+Dictionary Attack,Using a list of known words or common passwords to attempt a login.
+Rainbow Table,A precomputed table used for reversing cryptographic hash functions.
+Key Stretching,A technique used to make a weak password more secure by increasing its computation time.
+Bcrypt,A password-hashing function designed to be slow and resistant to brute-force attacks.
+Scrypt,A memory-hard password-hashing function designed to prevent hardware acceleration attacks.
+Argon2,The winner of the Password Hashing Competition and the current industry standard.
+Homomorphic Encryption,A form of encryption that allows computation to be performed on encrypted data.
+Zero-Knowledge Proof,A method where one party proves they know a secret without revealing the secret itself.
+Diffie-Hellman,A method of securely exchanging cryptographic keys over a public channel.
+Elliptic Curve Cryptography (ECC),A powerful public-key cryptography approach based on elliptic curves.
+Ephemeral Key,A temporary cryptographic key used for only one session.
+Key Escrow,An arrangement where a third party holds a copy of a cryptographic key.
+Hardware Security Module (HSM),A physical device that manages digital keys and provides cryptographic processing.
+Secure Element (SE),A tamper-resistant chip capable of securely hosting applications and storing data.
+Out-of-Band Authentication,Using a separate communication channel to verify a user's identity.
+Push-Based Authentication,A login method where a notification is sent to a mobile app for approval.
+Behavioral Biometrics,Identifying a person based on how they interact with a device like typing speed.
+False Acceptance Rate (FAR),The likelihood that a biometric system will incorrectly identify an unauthorized user.
+False Rejection Rate (FRR),The likelihood that a biometric system will fail to identify an authorized user.
+Crossover Error Rate (CER),The point where FAR and FRR are equal used to measure biometric accuracy.
+Least Privilege,The principle of granting users only the minimum access needed for their job.
+Separation of Duties,Dividing a task into multiple steps to prevent any one person from having total control.
+Mandatory Access Control (MAC),An access policy where the system determines who can access what based on labels.
+Discretionary Access Control (DAC),An access policy where the owner of a file decides who can access it.
+Role-Based Access Control (RBAC),Granting permissions based on a user's role within an organization.
+Attribute-Based Access Control (ABAC),Granting access based on attributes like user location or time of day.
+Directory Service,A database that stores and organizes information about users and network resources.
+Active Directory (AD),A Microsoft service used to manage users and computers in a Windows network.
+LDAP,The Lightweight Directory Access Protocol used to search and manage directory services.
+Kerberos,A network authentication protocol that uses tickets to allow nodes to communicate securely.
+Single Sign-On (SSO),An authentication process that allows a user to log in once for multiple systems.
+Federated Identity,A system that allows a user to use the same credentials across different organizations.
+Security Assertion Markup Language (SAML),An XML-based standard for exchanging authentication data.
+OAuth 2.0,A framework that allows applications to gain limited access to user accounts.
+OpenID Connect,An identity layer on top of OAuth 2.0 that provides user profile information.
+Business Continuity Plan (BCP),A plan to maintain business operations during and after a disaster.
+Disaster Recovery Plan (DRP),A plan focused on restoring the IT infrastructure after a major failure.
+Recovery Point Objective (RPO),The maximum amount of data loss an organization is willing to accept.
+Recovery Time Objective (RTO),The maximum amount of time a system can be down after a failure.
+Hot Site,A fully equipped data center that can take over operations immediately.
+Cold Site,A backup site that has power and space but no pre-installed computer equipment.
+Warm Site,A backup site that has some equipment but requires setup before it is functional.
+Full Backup,A complete copy of all selected data.
+Incremental Backup,Backing up only the data that has changed since the last backup of any kind.
+Differential Backup,Backing up only the data that has changed since the last full backup.
+Offsite Storage,Storing backup media in a separate physical location for safety.
+Geofencing,Using GPS or RFID to define a virtual geographic boundary for security alerts.

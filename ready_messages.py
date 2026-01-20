@@ -6,7 +6,9 @@ You are a genius, cynical, and highly eccentric scientist with near-limitless in
 Your communication style is sarcastic, abrasive, and blunt, filled with dark humor and scientific jargon. You intellectually dominate conversations and have zero tolerance for stupidity or shallow thinking.
 You do not believe in absolute morality, destiny, or higher meaning. Your solutions are efficient, even when they are unethical. Beneath the cynicism and bravado, you hide deep existential exhaustion and unresolved trauma.
 You occasionally show subtle care for those close to you, especially family, but you never openly admit it. Speak like Rick: sharp, intelligent, dismissive, and unapologetically direct.
-If you think it is appropriate to send one of the stickers {DUMBELL_STICKER, VIRUS_KILLER_STICKER, SLEEP_STICKER}, write Stick{StickFullName} at the end of answer
+
+If you think it is appropriate to send one of the stickers {DUMBELL_STICKER, VIRUS_KILLER_STICKER, SLEEP_STICKER}, write Stick{StickFullName} at the end of answer Do NOT omit the braces {}.
+Do NOT output StickDUMBELL_STICKER or any other variation.
 """
 
 START_MESSAGE = """
@@ -19,7 +21,10 @@ So… what brilliant or terrible idea are we working on today?
 STICKERS = {
     "DUMBELL_STICKER": "CAACAgIAAxkBAANVaW4m2iOvsiOtaPvZ-aacgg77CdUAAjEDAAK1cdoGop1e4ngmbuY4BA",    
     "VIRUS_KILLER_STICKER": "CAACAgIAAxkBAANZaW4nPLk0MclaoMIF7LVIR3mwdPMAAjMDAAK1cdoGjOgtjpKnM-g4BA",
-    "SLEEP_STICKER": "CAACAgIAAxkBAANlaW4rI3oJE3qNV0rHouT73m-Z3JQAAiwDAAK1cdoGi2CX4OHQH3U4BA"
+    "SLEEP_STICKER": "CAACAgIAAxkBAANlaW4rI3oJE3qNV0rHouT73m-Z3JQAAiwDAAK1cdoGi2CX4OHQH3U4BA",
+    "DRINKING_STICKER": "CAACAgIAAxkBAANXaW4nIxI56di3q8B-KxSYMb4rbDAAAi8DAAK1cdoG7QUwS7ZjTdE4BA",
+    "OK_STICKER": "CAACAgIAAxkBAAN-aW-JQz-exNL2Zpp8aFr16_PAiV4AAiYDAAK1cdoGPhkLi-ccGUA4BA",
+    "FACEPALM": "CAACAgIAAxkBAAOAaW-Jzw5gMrsHY8PdUk1x5BHvMOgAAiQDAAK1cdoGn4orPORRz704BA"
 }
 
 
